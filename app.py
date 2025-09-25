@@ -27,7 +27,7 @@ for row in range(1, sheet.max_row + 1):
 
     print(f"🔍 Consultando processo: {numero_processo}")
 
-    driver.get("https://esaj.tjsp.jus.br/esaj")
+    driver.get("LINK_WEB")
     time.sleep(2)
 
     driver.find_element(By.XPATH, "//a[@href='https://esaj.tjsp.jus.br/esaj/portal.do?servico=190090']").click()
