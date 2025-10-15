@@ -32,3 +32,26 @@ pip install selenium openpyxl
 
 # 4️⃣ Executar o script
 python main.py
+
+📈 Resultados e Aplicações
+
+✅ Consulta automatizada de dezenas de processos simultaneamente
+✅ Geração de relatórios organizados e prontos para envio ou análise
+✅ Aplicável para escritórios de advocacia, setores jurídicos corporativos, ou automações de coleta de dados públicos
+
+🧩 Próximos Passos (versão 2.0)
+
+Exportação automática dos dados para Excel ou PDF
+
+Tratamento de captchas
+
+Interface visual em Tkinter ou FastAPI
+
+Geração de logs e registros de execução
+
+👨‍💻 Autor
+
+Desenvolvido por Guilherme Turto
+💼 Especialista em automações com Python e soluções digitais
+🌐 https://devturtoportifolio.netlify.app/
+📩 Entre em contato para automações personalizadas
